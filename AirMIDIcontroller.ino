@@ -102,7 +102,7 @@ void loop() {
   
 /*
   The MIDImessage has three bytes, first is the Control Channel, 
-  the other two bytes denoted the note number and velocity/pressure value respectively.
+  the other two bytes denotes the note number and velocity/pressure value respectively.
 
   Refer below link for additional info on status bytes:
 
