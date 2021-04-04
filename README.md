@@ -1,7 +1,7 @@
 # AirMIDIController
 Send MIDI Signals to DAW using hand motions.
 
- *  COMPONENT LIST
+ COMPONENT LIST
  *  1x   Arduino Uno
  *  2x   HC-SR04 Ultrasonic sensor
  *  8x   Jumper Wires (Male to Male)
