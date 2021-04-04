@@ -9,11 +9,11 @@
  *  1x   Breadboard
  */
 
-int trigPin1=2;     // Trigger Pin for sensor 1 connected to Digital Pin number 2 of arduino uno
-int echoPin1=3;     // Echo Pin for sensor 1 connected to Digital Pin number 3 of arduino uno
+int trigPin1=3;     // Trigger Pin for sensor 1 connected to Digital Pin number 3 of arduino uno
+int echoPin1=2;     // Echo Pin for sensor 1 connected to Digital Pin number 2 of arduino uno
 
-int trigPin2=8;
-int echoPin2=9;
+int trigPin2=5;
+int echoPin2=4;
 
 void setup() {
   Serial.begin (9600);   // Serial Initialisation with Baud rate 9600
